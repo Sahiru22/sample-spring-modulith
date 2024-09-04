@@ -1,4 +1,4 @@
-package com.example.demo_spring_modulith.customer.model;
+package com.example.demo_spring_modulith.customer.domain;
 
 import jakarta.persistence.*;
 import lombok.Data;

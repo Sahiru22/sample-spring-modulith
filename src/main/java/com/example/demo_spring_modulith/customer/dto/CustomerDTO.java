@@ -1,4 +1,4 @@
-package com.example.demo_spring_modulith.dto;
+package com.example.demo_spring_modulith.customer.dto;
 
 import lombok.Data;
 

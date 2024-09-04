@@ -1,9 +1,9 @@
 package com.example.demo_spring_modulith.customer.service.impl;
 
-import com.example.demo_spring_modulith.customer.model.Customer;
+import com.example.demo_spring_modulith.customer.domain.Customer;
 import com.example.demo_spring_modulith.customer.repository.CustomerRepository;
 import com.example.demo_spring_modulith.customer.service.CustomerService;
-import com.example.demo_spring_modulith.dto.CustomerDTO;
+import com.example.demo_spring_modulith.customer.dto.CustomerDTO;
 import lombok.AllArgsConstructor;
 import org.springframework.beans.BeanUtils;
 import org.springframework.stereotype.Service;

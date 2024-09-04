@@ -1,7 +1,7 @@
 package com.example.demo_spring_modulith.customer.service;
 
-import com.example.demo_spring_modulith.customer.model.Customer;
-import com.example.demo_spring_modulith.dto.CustomerDTO;
+import com.example.demo_spring_modulith.customer.domain.Customer;
+import com.example.demo_spring_modulith.customer.dto.CustomerDTO;
 
 import java.util.List;
 import java.util.Optional;

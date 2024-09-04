@@ -1,8 +1,8 @@
 package com.example.demo_spring_modulith.customer.controller;
 
-import com.example.demo_spring_modulith.customer.model.Customer;
+import com.example.demo_spring_modulith.customer.domain.Customer;
 import com.example.demo_spring_modulith.customer.service.CustomerService;
-import com.example.demo_spring_modulith.dto.CustomerDTO;
+import com.example.demo_spring_modulith.customer.dto.CustomerDTO;
 import lombok.AllArgsConstructor;
 import org.springframework.web.bind.annotation.*;
 
